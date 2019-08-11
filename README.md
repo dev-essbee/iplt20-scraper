@@ -3,6 +3,8 @@ ___
 [![GitHub issues](https://img.shields.io/github/issues/dev-SB/iplt20-scrapper)](https://github.com/dev-SB/iplt20-scrapper/issues) [![GitHub forks](https://img.shields.io/github/forks/dev-SB/iplt20-scrapper)](https://github.com/dev-SB/iplt20-scrapper/network)  [![GitHub stars](https://img.shields.io/github/stars/dev-SB/iplt20-scrapper)](https://github.com/dev-SB/iplt20-scrapper/stargazers) [![GitHub license](https://img.shields.io/github/license/dev-SB/iplt20-scrapper)](https://github.com/dev-SB/iplt20-scrapper/blob/master/LICENSE)  [![Twitter](https://img.shields.io/twitter/url/https/github.com/dev-SB/iplt20-scrapper?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fdev-SB%2Fiplt20-scrapper)
 
 ### Description
+Here is a medium article explaining the project: [IPL statistics Web Scrapper](http://bit.ly/ipl-web-scrapper-article)
+
 A CLI web scrapping application to extract stats from https://www.iplt20.com - the official website of Indian 
 Premier League.
 The application allows user to extract following data sets from the website:
